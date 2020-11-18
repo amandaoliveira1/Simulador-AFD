@@ -1,3 +1,5 @@
+aaaa
+bb
 abbbabaaa
 ab
 aab
@@ -5,18 +7,3 @@ babbb
 bbbbbbb
 babaa
 abab
-abbbabaaa
-ab
-aab
-babbb
-bbbbbbb
-babaa
-abab
-abbbabaaa
-ab
-aab
-babbb
-bbbbbbb
-babaa
-abab
-
